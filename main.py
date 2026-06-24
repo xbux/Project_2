@@ -107,6 +107,6 @@ class MICROSOFT:
 
 microsoft = MICROSOFT()
 nest_asyncio.apply()
-print(' + Microsoft User_Authorization Extractor \n')
+print(' + User_Authorization Extractor \n')
 
 asyncio.run(microsoft.start_all_processes())
